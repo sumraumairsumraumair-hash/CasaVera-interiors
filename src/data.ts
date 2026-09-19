@@ -6,18 +6,17 @@ export const EDITORIAL_BEDROOM_IMAGE = '/src/assets/images/editorial_bedroom_178
 export const SCULPTURAL_CHAIR_IMAGE = '/src/assets/images/sculptural_chair_1789814793058.jpg';
 
 export const BRAND = {
+  export const BRAND = {
   name: 'CasaVera Interiors',
   shortName: 'CasaVera',
   tagline: 'Spaces Designed to Feel Like Home.',
-  subheading: 'Thoughtfully curated interiors, timeless furniture, and refined details designed around the way you live.',
-  address: '482 West Broadway, Soho, New York, NY 10012',
-  email: 'concierge@casaverainteriors.com',
-  phone: '+1 (212) 584-3920',
-  hours: 'Monday – Friday: 9:00 AM – 6:00 PM EST',
-  weekendHours: 'Saturday: By Private Appointment Only',
-  license: 'Registered Design Practice #NY-77291',
-};
-
+  subheading: 'Thoughtfully curated interiors, timeless furniture, and refined details',
+  address: 'Lahore, Punjab, Pakistan',
+  email: 'Sumraumairsumraumair@gmail.com',
+  phone: '+92 341 8054556',
+  hours: 'Monday - Saturday: 10:00 AM - 8:00 PM PKT',
+  weekendHours: 'Sunday: By Appointment Only',
+  license: 'WhatsApp: 0341-8054556',};
 export const TRUST_HIGHLIGHTS = [
   {
     title: 'Thoughtful Design',
