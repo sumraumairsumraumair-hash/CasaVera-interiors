@@ -4,8 +4,6 @@ import { CollectionItem, ServiceItem, ProductItem, ProjectItem, TestimonialItem 
 export const HERO_IMAGE = '/src/assets/images/hero_living_room_1789814762457.jpg';
 export const EDITORIAL_BEDROOM_IMAGE = '/src/assets/images/editorial_bedroom_1789814779286.jpg';
 export const SCULPTURAL_CHAIR_IMAGE = '/src/assets/images/sculptural_chair_1789814793058.jpg';
-
-export const BRAND = {
   export const BRAND = {
   name: 'CasaVera Interiors',
   shortName: 'CasaVera',
